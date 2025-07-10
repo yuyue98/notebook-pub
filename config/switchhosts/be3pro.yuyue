@@ -1,4 +1,20 @@
+192.168.3.1     be3pro.yuyue
 192.168.3.100   debian.yuyue
+192.168.3.36    matebookd.yuyue
+192.168.3.110   ws2012r2.yuyue
+192.168.3.110   ws2022.yuyue
 192.168.3.110   ws2025.yuyue
+192.168.3.110   pve.yuyue
 192.168.3.120   r730xd.yuyue
 192.168.3.125   shadow9p.yuyue
+192.168.3.130   ws5200.yuyue
+
+192.168.3.40    centos7.yuyue
+192.168.3.50    centos-0.yuyue
+192.168.3.51    centos-1.yuyue
+192.168.3.52    centos-2.yuyue
+192.168.3.53    centos-3.yuyue
+192.168.3.60    esxi-1.yuyue esxi-1
+192.168.3.10    esxi.yuyue esxi
+192.168.3.80    truenas.yuyue
+192.168.3.80    freenas.yuyue
